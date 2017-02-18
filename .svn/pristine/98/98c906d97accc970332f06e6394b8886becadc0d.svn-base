@@ -1,0 +1,17 @@
+
+.npanel {
+    padding-bottom: 10px;
+}
+
+.npanel-heading {
+    background-color: #3498db;
+    text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+    height: 30px;
+    line-height: 30px;
+    font-weight: bold;
+}
+.npanel-body {
+
+}
